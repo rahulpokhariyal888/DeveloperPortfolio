@@ -1,0 +1,25 @@
+==========================================
+       SYSTEM INFORMATION REPORT
+==========================================
+Author: Rahul Pokhariyal
+Roll Number: 2601730090
+Date: Wed Nov 25 16:51:42 UTC 2026
+
+---------- CPU INFORMATION ----------
+CPU(s):                                  16
+Model name:                              AMD Ryzen 7 7730U with Radeon Graphics
+Core(s) per socket:                      8
+
+---------- MEMORY INFORMATION ----------
+Total Memory: 7.4Gi
+Used Memory: 619Mi
+
+---------- TOP 3 PROCESSES BY CPU ----------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         122  0.3  0.1 380412 11876 ?        Ssl  16:42   0:01 snapfuse /var/lib/snapd/snaps/snapd_28254.snap /snap/snapd/28254 -o ro,nodev,allow_other,suid
+root         231  0.2  0.5 2371712 41380 ?       Ssl  16:42   0:01 /snap/snapd/current/usr/lib/snapd/snapd
+root           1  0.2  0.1  24396 15492 ?        Ss   16:42   0:01 /sbin/init
+
+==========================================
+Report generated successfully.
+==========================================
